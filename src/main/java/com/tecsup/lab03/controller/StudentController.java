@@ -6,6 +6,7 @@ public class StudentController {
 		// TODO Auto-generated method stub
 		System.out.println("Hola colaboradores");
 		System.out.println("Hola soy cortez");
+
 	}
 
 }
